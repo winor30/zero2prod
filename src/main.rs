@@ -3,7 +3,7 @@ fn main() {
 }
 
 fn sum(p1: u32, p2: u32) -> u32 {
-    p1 + p2
+    p1 + p2 + 1
 }
 
 #[cfg(test)]
